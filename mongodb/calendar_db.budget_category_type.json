@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6606eee286af8b0d33038e91"
+  },
+  "name": "Expense",
+  "budget_id": {
+    "$oid": "6606fcedf06cad46b2e62fbb"
+  },
+  "creation_date": "2024-03-29 10:40"
+},
+{
+  "_id": {
+    "$oid": "6606f10125bd424cd1ada99b"
+  },
+  "name": "Revenue",
+  "budget_id": {
+    "$oid": "6606fcedf06cad46b2e62fbb"
+  },
+  "creation_date": "2024-03-29 10:49"
+}]

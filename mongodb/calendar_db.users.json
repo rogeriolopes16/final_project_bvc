@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65da4f7d88acfb4126949f44"
+  },
+  "name": "Rogerio Lopes",
+  "email": "r.silva353@mybvc.ca",
+  "admin": true,
+  "status": true,
+  "creation_date": "2024-02-24 13:20"
+},
+{
+  "_id": {
+    "$oid": "65da5042f339a473a3271214"
+  },
+  "name": "Willian Pereira",
+  "email": "w.munhoz831@mybvc.ca",
+  "admin": false,
+  "status": true,
+  "creation_date": "2024-02-24 13:23"
+},
+{
+  "_id": {
+    "$oid": "65dabb867e1c72b06d1b24ea"
+  },
+  "name": "Ely Cuaton",
+  "email": "e.cuaton732@mybvc.ca",
+  "admin": false,
+  "status": true,
+  "creation_date": "2024-02-24 21:01"
+},
+{
+  "_id": {
+    "$oid": "65dabba27e1c72b06d1b24eb"
+  },
+  "name": "Gabriele Dupont",
+  "email": "g.dupont188@mybvc.ca",
+  "admin": false,
+  "status": true,
+  "creation_date": "2024-02-24 21:01"
+}]

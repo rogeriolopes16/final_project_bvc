@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6606f1c825bd424cd1ada99d"
+  },
+  "name": "Salary",
+  "budget_id": {
+    "$oid": "6606fcedf06cad46b2e62fbb"
+  },
+  "category_type_id": {
+    "$oid": "6606eee286af8b0d33038e91"
+  },
+  "creation_date": "2024-03-29 10:52"
+},
+{
+  "_id": {
+    "$oid": "6606f21225bd424cd1ada99e"
+  },
+  "name": "Coffee Break",
+  "budget_id": {
+    "$oid": "6606fcedf06cad46b2e62fbb"
+  },
+  "category_type_id": {
+    "$oid": "6606eee286af8b0d33038e91"
+  },
+  "creation_date": "2024-03-29 10:53"
+},
+{
+  "_id": {
+    "$oid": "6606f23725bd424cd1ada99f"
+  },
+  "name": "IT Internal investment",
+  "budget_id": {
+    "$oid": "6606fcedf06cad46b2e62fbb"
+  },
+  "category_type_id": {
+    "$oid": "6606f10125bd424cd1ada99b"
+  },
+  "creation_date": "2024-03-29 10:54"
+},
+{
+  "_id": {
+    "$oid": "6606f34376d45019f02f3284"
+  },
+  "name": "Increasing Scope",
+  "budget_id": {
+    "$oid": "6606fcedf06cad46b2e62fbb"
+  },
+  "category_type_id": {
+    "$oid": "6606f10125bd424cd1ada99b"
+  },
+  "creation_date": "2024-03-29 10:58"
+}]

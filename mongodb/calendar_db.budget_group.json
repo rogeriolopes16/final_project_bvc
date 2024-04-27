@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6606f86a4a9391e57a11e65d"
+  },
+  "name": "IT",
+  "creation_date": "2024-03-29 11:20"
+},
+{
+  "_id": {
+    "$oid": "6606f8f44a9391e57a11e65e"
+  },
+  "name": "Financial",
+  "creation_date": "2024-03-29 11:23"
+}]

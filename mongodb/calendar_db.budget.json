@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "6606fcedf06cad46b2e62fbb"
+  },
+  "email": "g.dupont188@mybvc.ca",
+  "name": "Projeto database",
+  "budget_project_type": "6606fb1b55eeba8b92a75a52",
+  "budget_group": "6606f86a4a9391e57a11e65d",
+  "purpose": "We need change database version to 10.X",
+  "creation_date": "2024-03-29 11:39",
+  "balance": 22456.85,
+  "budget_project_type_name": "Technology Improvements",
+  "budget_group_name": "IT",
+  "expenses": {
+    "1711742392996838": {
+      "name": "Salary Mary",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 5567.89,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-09"
+    },
+    "1711742589986931": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:03"
+    },
+    "1711742613694801": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:03"
+    },
+    "1711742704904492": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:05"
+    },
+    "1711742742609803": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:05"
+    },
+    "1711742963470952": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:09"
+    },
+    "1711743002902216": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:10"
+    },
+    "1711743020119763": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:10"
+    },
+    "1711743042284989": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:10"
+    },
+    "1711743081267283": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:11"
+    },
+    "1711743128366312": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:12"
+    },
+    "1711743165128148": {
+      "name": "Salary Jonh",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 1234.56,
+      "budget_category_type": "6606eee286af8b0d33038e91",
+      "date": "2024-03-01",
+      "creation_date": "2024-03-29 14:12"
+    }
+  },
+  "revenue": {
+    "1711743360380718": {
+      "name": "Return value",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 2345.67,
+      "budget_category_type": "6606f10125bd424cd1ada99b",
+      "date": "2024-03-15",
+      "creation_date": "2024-03-29 14:16"
+    },
+    "1711743383988091": {
+      "name": "Return value",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 2345.67,
+      "budget_category_type": "6606f10125bd424cd1ada99b",
+      "date": "2024-03-15",
+      "creation_date": "2024-03-29 14:16"
+    },
+    "1711743466132656": {
+      "name": "Return value",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 2345.67,
+      "budget_category_type": "6606f10125bd424cd1ada99b",
+      "date": "2024-03-15",
+      "creation_date": "2024-03-29 14:17"
+    },
+    "1711743548124072": {
+      "name": "Project cost",
+      "budget_project_type": "6606fb1b55eeba8b92a75a52",
+      "amount": 34567.89,
+      "budget_category_type": "6606f10125bd424cd1ada99b",
+      "date": "2024-02-15",
+      "creation_date": "2024-03-29 14:19"
+    }
+  }
+}]

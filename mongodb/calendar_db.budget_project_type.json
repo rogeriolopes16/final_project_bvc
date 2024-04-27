@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6606fb1b55eeba8b92a75a52"
+  },
+  "name": "Technology Improvements",
+  "creation_date": "2024-03-29 11:32"
+},
+{
+  "_id": {
+    "$oid": "6606fb2d55eeba8b92a75a53"
+  },
+  "name": "Fee reduction",
+  "creation_date": "2024-03-29 11:32"
+}]

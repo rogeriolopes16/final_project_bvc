@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "65da5082f339a473a3271215"
+  },
+  "calendar_description": "Development week",
+  "calendar_name": "Development time",
+  "email": "r.silva353@mybvc.ca",
+  "status": true,
+  "user_id": {
+    "$oid": "65da4f7d88acfb4126949f44"
+  },
+  "creation_date": "2024-02-24 13:24"
+}]

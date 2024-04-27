@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "65e91c3d22d8306c6cc7b59a"
+  },
+  "title": "Favorite Colors",
+  "question": "What is your favorite color?",
+  "options": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "correct_answer": null,
+  "start_time": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "type_poll": "for_percentage",
+  "anonymous": true,
+  "ballots": []
+}]

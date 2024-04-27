@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65da5144aa10b940720097b1"
+  },
+  "event_name": "Python with mongo",
+  "event_description": "Python with mongo Development",
+  "calendar_name": "Development time",
+  "email": "r.silva353@mybvc.ca",
+  "status": true,
+  "start_date": {
+    "$date": "2024-02-13T19:15:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-02-21T21:30:00.000Z"
+  },
+  "user_id": {
+    "$oid": "65da4f7d88acfb4126949f44"
+  },
+  "calendar_id": {
+    "$oid": "65da5082f339a473a3271215"
+  },
+  "creation_date": "2024-02-24 13:27"
+},
+{
+  "_id": {
+    "$oid": "65dd255afe8ffa3e5767dcd0"
+  },
+  "event_name": "Python dev",
+  "event_description": "Python dev",
+  "calendar_name": "Development time",
+  "email": "r.silva353@mybvc.ca",
+  "status": true,
+  "start_date": {
+    "$date": "2024-02-10T19:15:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-02-20T21:30:00.000Z"
+  },
+  "type": "metting",
+  "location": "www.meetingOnlinePorjectsTeam.com",
+  "repeat": "does_not_repeat",
+  "attendant_events": [
+    [
+      "email@email.com",
+      "yes"
+    ],
+    [
+      "teste@teste.com",
+      "maybe"
+    ],
+    [
+      "quest@quest.com",
+      ""
+    ]
+  ],
+  "user_id": {
+    "$oid": "65da4f7d88acfb4126949f44"
+  },
+  "calendar_id": {
+    "$oid": "65da5082f339a473a3271215"
+  },
+  "creation_date": "2024-02-26 16:57"
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65da59335a63ec74fac2bd74"
+  },
+  "group_name": "Python with mongo",
+  "group_description": "Python with mongo Development",
+  "calendar_name": "Development time",
+  "email": "r.silva353@mybvc.ca",
+  "status": true,
+  "share": [
+    "65da4f7d88acfb4126949f44",
+    "65dabba27e1c72b06d1b24eb"
+  ],
+  "user_id": {
+    "$oid": "65da4f7d88acfb4126949f44"
+  },
+  "calendar_id": {
+    "$oid": "65da5082f339a473a3271215"
+  },
+  "creation_date": "2024-02-24 14:01"
+}]

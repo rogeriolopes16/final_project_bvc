@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65e91c5222d8306c6cc7b59b"
+  },
+  "poll_id": "65e91c3d22d8306c6cc7b59a",
+  "ballot": [
+    "Green"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e91c5322d8306c6cc7b59c"
+  },
+  "poll_id": "65e91c3d22d8306c6cc7b59a",
+  "ballot": [
+    "Green"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e91c5422d8306c6cc7b59d"
+  },
+  "poll_id": "65e91c3d22d8306c6cc7b59a",
+  "ballot": [
+    "Green"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e91c5922d8306c6cc7b59e"
+  },
+  "poll_id": "65e91c3d22d8306c6cc7b59a",
+  "ballot": [
+    "Red"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e91c5922d8306c6cc7b59f"
+  },
+  "poll_id": "65e91c3d22d8306c6cc7b59a",
+  "ballot": [
+    "Red"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e91c5a22d8306c6cc7b5a0"
+  },
+  "poll_id": "65e91c3d22d8306c6cc7b59a",
+  "ballot": [
+    "Red"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e91c5b22d8306c6cc7b5a1"
+  },
+  "poll_id": "65e91c3d22d8306c6cc7b59a",
+  "ballot": [
+    "Red"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e91c5f22d8306c6cc7b5a2"
+  },
+  "poll_id": "65e91c3d22d8306c6cc7b59a",
+  "ballot": [
+    "Blue"
+  ]
+}]
